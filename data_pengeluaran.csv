@@ -1,0 +1,123 @@
+Tanggal,Deskripsi,Nominal_IDR,Metode_Pembayaran
+2026-10-01,Beli Perlengkapan Rumah Tangga,185000,Transfer Bank
+2026-10-01,Ojek Online,40000,E-Wallet
+2026-10-01,Tagihan Internet Bulanan,385000,Transfer Bank
+2026-10-02,Kopi Susu & Sarapan,53000,Tunai
+2026-10-02,Pesan Makanan Online,112000,E-Wallet
+2026-10-02,Token Listrik PLN,250000,QRIS
+2026-10-03,Belanja Minimarket,99000,Debit
+2026-10-03,Makan Siang Ayam Bakar & Es Teh,45000,QRIS
+2026-10-03,Makan Siang Warteg,34000,QRIS
+2026-10-04,Isi Bensin Motor,38000,QRIS
+2026-10-04,Langganan Spotify Family,86000,E-Wallet
+2026-10-04,Makan Siang Warteg,32000,Tunai
+2026-10-05,Isi Bensin Motor,37000,Tunai
+2026-10-05,Tagihan Air PDAM,115000,Transfer Bank
+2026-10-06,Belanja Minimarket,119000,Debit
+2026-10-06,Isi Bensin Mobil,227000,Debit
+2026-10-06,Pesan Makanan Online,56000,E-Wallet
+2026-10-07,Isi Bensin Mobil,173000,QRIS
+2026-10-07,Langganan YouTube Premium,69000,E-Wallet
+2026-10-08,Belanja Minimarket,81000,Debit
+2026-10-08,Makan Siang Warteg,24000,Tunai
+2026-10-09,Makan Malam Keluarga,177000,Debit
+2026-10-09,Makan Siang Warteg,37000,Tunai
+2026-10-09,Pesan Makanan Online,55000,E-Wallet
+2026-10-10,Langganan Cloud Storage 200GB,43000,Debit
+2026-10-10,Makan Malam Keluarga,196000,QRIS
+2026-10-10,Makan Siang Ayam Bakar & Es Teh,33000,E-Wallet
+2026-10-10,Ojek Online,44000,E-Wallet
+2026-10-11,Belanja Minimarket,132000,Debit
+2026-10-11,Makan Siang Ayam Bakar & Es Teh,44000,QRIS
+2026-10-12,Cuci Kendaraan,53000,Tunai
+2026-10-12,Makan Siang Warteg,22000,QRIS
+2026-10-13,Belanja Minimarket,58000,QRIS
+2026-10-13,Kopi Susu & Sarapan,39000,Tunai
+2026-10-13,Makan Siang Warteg,29000,Tunai
+2026-10-14,Belanja Kebutuhan Dapur,162000,QRIS
+2026-10-14,Belanja Minimarket,80000,Debit
+2026-10-14,Isi Bensin Motor,48000,QRIS
+2026-10-14,Kopi Susu & Sarapan,42000,QRIS
+2026-10-14,Kopi Susu & Sarapan,42000,QRIS
+2026-10-15,Isi Bensin Motor,45000,Tunai
+2026-10-15,Iuran Keamanan & Sampah,75000,Transfer Bank
+2026-10-15,Ojek Online,43000,E-Wallet
+2026-10-16,Belanja Minimarket,144000,QRIS
+2026-10-16,Nonton Bioskop & Popcorn,127000,E-Wallet
+2026-10-17,Kopi Susu & Sarapan,47000,E-Wallet
+2026-10-17,Ojek Online,41000,E-Wallet
+2026-10-18,Kopi Susu & Sarapan,44000,QRIS
+2026-10-18,Paket Data & Pulsa Bulanan,120000,E-Wallet
+2026-10-19,Belanja Kebutuhan Dapur,173000,Debit
+2026-10-19,Beli Buah Segar,80000,QRIS
+2026-10-20,Belanja Bulanan Supermarket,390000,Transfer Bank
+2026-10-20,Makan Siang Warteg,37000,Tunai
+2026-10-21,Kopi & Camilan Sore,48000,E-Wallet
+2026-10-21,Makan Siang Warteg,32000,QRIS
+2026-10-22,Kopi & Camilan Sore,54000,QRIS
+2026-10-22,Servis Besar & Ganti Ban Mobil,1950000,Transfer Bank
+2026-10-23,Pesan Makanan Online,100000,E-Wallet
+2026-10-24,Beli Buah Segar,69000,Tunai
+2026-10-25,Kopi Susu & Sarapan,54000,Tunai
+2026-10-26,Makan Siang Warteg,23000,QRIS
+2026-10-27,Kopi Susu & Sarapan,43000,E-Wallet
+2026-10-27,Makan Siang Ayam Bakar & Es Teh,44000,QRIS
+2026-10-28,Kopi Susu & Sarapan,30000,E-Wallet
+2026-10-28,Makan Siang Ayam Bakar & Es Teh,42000,E-Wallet
+2026-10-29,Kopi & Camilan Sore,52000,E-Wallet
+2026-10-30,Beli Air Galon & Gas,63000,Tunai
+2026-10-30,Makan Malam Keluarga,239000,Debit
+2026-10-31,Isi Bensin Motor,37000,Tunai
+2026-10-31,Kopi & Camilan Sore,30000,E-Wallet
+2026-11-01,Belanja Minimarket,87000,QRIS
+2026-11-01,Tagihan Internet Bulanan,385000,Transfer Bank
+2026-11-02,Kopi Susu & Sarapan,42000,Tunai
+2026-11-02,Token Listrik PLN,300000,QRIS
+2026-11-03,Ojek Online,26000,E-Wallet
+2026-11-03,Pesan Makanan Online,88000,E-Wallet
+2026-11-03,Pesan Makanan Online,88000,E-Wallet
+2026-11-04,Beli Perlengkapan Rumah Tangga,176000,QRIS
+2026-11-04,Kopi Susu & Sarapan,43000,Tunai
+2026-11-04,Langganan Spotify Family,86000,E-Wallet
+2026-11-05,Kopi & Camilan Sore,52000,E-Wallet
+2026-11-05,Tagihan Air PDAM,122000,Transfer Bank
+2026-11-06,Beli Buku & Alat Tulis,67000,QRIS
+2026-11-06,Makan Siang Warteg,34000,QRIS
+2026-11-07,Belanja Kebutuhan Dapur,228000,QRIS
+2026-11-07,Langganan YouTube Premium,69000,E-Wallet
+2026-11-08,Kopi & Camilan Sore,31000,E-Wallet
+2026-11-08,Parkir & Tol,16000,Tunai
+2026-11-09,Isi Bensin Motor,45000,QRIS
+2026-11-09,Kopi Susu & Sarapan,53000,E-Wallet
+2026-11-09,Makan Siang Warteg,38000,Tunai
+2026-11-10,Isi Bensin Motor,49000,QRIS
+2026-11-10,Langganan Cloud Storage 200GB,43000,Debit
+2026-11-11,Makan Malam Keluarga,143000,QRIS
+2026-11-11,Promo 11.11 Monitor Eksternal Kerja,2650000,Transfer Bank
+2026-11-12,Makan Siang Warteg,29000,Tunai
+2026-11-12,Ojek Online,44000,E-Wallet
+2026-11-13,Kopi & Camilan Sore,64000,QRIS
+2026-11-14,Beli Buah Segar,47000,Tunai
+2026-11-14,Makan Malam Keluarga,160000,Debit
+2026-11-15,Belanja Kebutuhan Dapur,217000,Debit
+2026-11-15,Isi Bensin Motor,43000,QRIS
+2026-11-15,Iuran Keamanan & Sampah,75000,Transfer Bank
+2026-11-15,Kopi & Camilan Sore,62000,E-Wallet
+2026-11-16,Belanja Minimarket,95000,QRIS
+2026-11-16,Belanja Minimarket,95000,QRIS
+2026-11-16,Isi Bensin Motor,46000,QRIS
+2026-11-16,Kopi Susu & Sarapan,33000,E-Wallet
+2026-11-17,Belanja Bulanan Supermarket,404000,Debit
+2026-11-17,Kopi & Camilan Sore,61000,E-Wallet
+2026-11-17,Kopi Susu & Sarapan,37000,Tunai
+2026-11-18,Makan Siang Ayam Bakar & Es Teh,42000,QRIS
+2026-11-18,Makan Siang Warteg,25000,Tunai
+2026-11-18,Paket Data & Pulsa Bulanan,120000,E-Wallet
+2026-11-19,Belanja Bulanan Supermarket,353000,Debit
+2026-11-19,Belanja Minimarket,97000,Debit
+2026-11-19,Flash Sale Sepatu Lari & Aksesoris,1450000,Transfer Bank
+2026-11-20,Belanja Minimarket,123000,Debit
+2026-11-20,Beli Buah Segar,81000,QRIS
+2026-11-20,Makan Siang Warteg,23000,Tunai
+2026-11-21,Kopi & Camilan Sore,41000,QRIS
+2026-11-21,Makan Siang Ayam Bakar & Es Teh,34000,QRIS
